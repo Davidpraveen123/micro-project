@@ -1,0 +1,12 @@
+#include<stdio.h>
+void main()
+{
+ int n = 33;
+ printf("Decimal value = %d",n);
+ printf("\nOctal value = %o",n);
+ printf("\nHexadecimal value = %x",n);
+}
+OUTPUT:-
+Decimal value = 33
+Octal value = 41
+Hexadecimal value = 21 
